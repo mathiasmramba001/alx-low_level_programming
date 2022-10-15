@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *  * main - print a code of string in a new line
- *   *
- *    * Return: Always 0 (Success)
- *     */
+ * main - print a code of string in a new line
+ *
+ * Return: Always 0 (Success)
+*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
