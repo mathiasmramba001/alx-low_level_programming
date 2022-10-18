@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * main - This program prints the phrase _putchar
- * Return: 0
- */
+* main - A program to print the phrase _putchar
+* Return: always 0
+*/
 int main(void)
 {
-	char ch[] = "_putchar";
-	int i;
-
-	for (i = 0; ch[i] != '\0'; i++)
-	{
-		_putchar(ch[i]);
-	}
-
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
+	
 	return (0);
 }
