@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*print alphabets- a program to printalphabets in lower case
+*print_alphabet - a program to printalphabets in lower case
 *
 *Return - success value
 */
