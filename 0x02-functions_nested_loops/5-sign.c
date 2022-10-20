@@ -2,7 +2,9 @@
 
 /**
 * print_sign - prints the signs depending on condition
+*
 *@w: this aslo passes an argument
+*
 *Returns: returns positive,negative or zero values
 */
 int print_sign(int w)
