@@ -5,11 +5,11 @@
  * @c: variable type int
  * Return: 1 for uppercase and  0 otherwise
  */
-int _isupper(int c)//fucntion call
+int _isupper(int c)/*fucntion call*/
+{
+	if (c >=  'a' && c <= 'z')/*comparison*/
 	{
-	if (c >=  65 && c <= 90) //comparison 
-	{
-		return (1);//returning a value 0f 1 if uppercase
+		return (1);/*returning a value 0f 1 if uppercase*/
 	}
 	else
 	{
