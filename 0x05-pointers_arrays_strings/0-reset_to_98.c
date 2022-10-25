@@ -6,7 +6,7 @@
 * @n: parameter to take the value.
 *
 */
-void reset_to_98(int *n) /*function declaring a pointer referring to a pointer address*/
+void reset_to_98(int *n) /*function referring to a pointer address*/
 	{
 	*n = 98; /* giving the pointer address a value*/
 	}
