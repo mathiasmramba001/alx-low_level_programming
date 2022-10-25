@@ -25,8 +25,3 @@ void rev_string(char *s)
 	i--;
 	}
 	}
-											*(s + i) = *(str + j);
-													j++;
-															i--;
-																}
-}
