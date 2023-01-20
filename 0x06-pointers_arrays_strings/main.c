@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code for Alx students.
+ * main - sample provided on Alx students project.
  *
  * Return: Always 0.
  */
